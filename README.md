@@ -12,7 +12,7 @@ CakeCrafters is a modern, responsive web application built using React, TypeScri
 - Type-safe development with TypeScript
 
 ## 📁 Project Structure
-
+```
 cakecrafters/
 ├── index.html
 ├── src/
@@ -27,7 +27,7 @@ cakecrafters/
 ├── package.json # Project metadata and scripts
 └── package-lock.json # Exact versions of installed dependencies
 
-
+```
 ## 🛠️ Tech Stack
 
 - **React** – UI library
@@ -36,3 +36,11 @@ cakecrafters/
 - **Vite** – Lightning-fast build tool
 - **ESLint** – Linting for code quality
 
+📚 What I Learned
+
+- React with TypeScript: Strengthened my understanding of building type-safe, component-based UIs using React with TypeScript for better developer experience and fewer - runtime errors.
+- Tailwind CSS: Gained hands-on experience in using utility-first CSS to rapidly design responsive and modern user interfaces.
+- Vite: Learned how to set up and use Vite for a fast and optimized development environment with minimal configuration.
+- Project Structuring: Understood how to organize a scalable frontend project with configuration files like tsconfig, eslint, and vite.config.ts.
+- Linting and Code Quality: Implemented ESLint with custom rules and plugins to maintain clean, readable, and consistent code.
+- PostCSS and Autoprefixer: Learned how modern CSS tools work together behind the scenes to ensure cross-browser compatibility.
