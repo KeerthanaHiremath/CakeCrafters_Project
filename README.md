@@ -36,7 +36,7 @@ cakecrafters/
 - **Vite** – Lightning-fast build tool
 - **ESLint** – Linting for code quality
 
-📚 What I Learned
+## 📚 What I Learned
 
 - **React with TypeScript**: Strengthened my understanding of building type-safe, component-based UIs using React with TypeScript for better developer experience and fewer - runtime errors.
 - **Tailwind CSS**: Gained hands-on experience in using utility-first CSS to rapidly design responsive and modern user interfaces.
